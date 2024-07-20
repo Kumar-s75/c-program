@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "06_04_pr04.C": "cpp",
+        "RANDOM.C": "cpp",
+        "ra.C": "cpp",
+        "LAB2.C": "cpp",
+        "LAB23.C": "cpp",
+        "LAB52.C": "cpp",
+        "recfibo.C": "cpp"
+    }
+}
